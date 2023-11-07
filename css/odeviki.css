@@ -1,0 +1,134 @@
+
+
+.container1 {
+    background-color: white;
+    width: 900px;
+    height: 150px;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    max-width: 100%;
+    
+    height: 150px;
+    
+}
+
+.container2 {
+    background-color: rgb(210, 201, 201);
+    width: 900px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 60%; /* Arama çubuğu genişliği */
+    padding: 5px; /* Arama çubuğu içerisinde boşluk bırak */
+    border: 1px solid #ccc; /* Sınır ekle */
+    border-radius: 5px; /* Köşeleri yuvarla */
+    font-size: 16px; /* Yazı boyutu */
+}
+
+.button1 {
+    background-color: #f2f3f4; /* Buton 1 arka plan rengi */
+    color: #0e0d0d; /* Buton 1 metin rengi */
+    padding: 10px 20px; /* Buton 1 iç boşluğu */
+    border: 15px; /* Buton 1 kenar sınırı */
+    border-radius: 7px; /* Buton 1 kenar yuvarlama */
+}
+  
+.button2 {
+    background-color: #f1efef; /* Buton 2 arka plan rengi */
+    color: #100e0e; /* Buton 2 metin rengi */
+    padding: 10px 20px; /* Buton 2 iç boşluğu */
+    border: none; /* Buton 2 kenar sınırı */
+    border-radius: 7px; /* Buton 2 kenar yuvarlama */
+}
+
+.container3 {
+    
+    width: 900px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 3px;
+
+    
+}
+
+
+.card {
+    
+    /* 
+   
+   
+    
+    */
+    float: left;
+    background-color: #00FFFF;
+    width: 33%;
+     margin-right: 3px;
+     height: 200px;
+    
+
+  
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+
+.box {
+    width: 33%;
+    float: left;
+
+}
+.card {
+    
+    
+   
+    
+    
+    /* 
+    
+    
+    
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 10px;
+    
+    
+    justify-content: center;
+     display: flex;
+    
+    padding: 5%;
+    margin-right: 3%;
+    border-radius: 10px; 
+    
+    
+    
+    
+    
+}
+
+
+*/
+
+
+
